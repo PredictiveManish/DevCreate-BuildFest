@@ -136,31 +136,31 @@ Open Source Community for invaluable tools and libraries
 <div align="center">
 
 ### Landing Page
-![Landing Page](assets/landing-page.png)
+![Landing Page](Swasthya-Saathi/assets/landing-page.png)
 *Modern, responsive landing page with feature overview*
 
 ### Symptom Analysis
-![Symptom Analysis](assets/symptom-analysis.png)
+![Symptom Analysis](Swasthya-Saathi/assets/symptom-analysis.png)
 *Voice and text input for symptom description*
 
 ### Results Dashboard
-![Results Dashboard](assets/result-dashboard.png)
+![Results Dashboard](Swasthya-Saathi/assets/result-dashboard.png)
 *AI analysis results with hospital recommendations*
 
 ### Medication Reminders
-![Medication Reminders](assets/medication-reminders.png)
+![Medication Reminders](Swasthya-Saathi/assets/medication-reminders.png)
 *Smart medication scheduling with SMS alerts*
 
 ### Hospital Finder
-![Hospital Finder](assets/hospital-finder.png)
+![Hospital Finder](Swasthya-Saathi/assets/hospital-finder.png)
 *Location-based hospital search with Ayushman filters*
 
 ### Doctor Consultancy & Action Plan
-![Doctor & Action Plan](assets/image.png)
+![Doctor & Action Plan](Swasthya-Saathi/assets/image.png)
 *Doctor Consultancy & Action Plan*
 
 ### Medication Reminder Message
-![Medication Reminder Message](assets/medication-message.jpg)
+![Medication Reminder Message]Swasthya-Saathi/(assets/medication-message.jpg)
 
 *Medication Reminder Message Template*
 </div>
@@ -168,7 +168,7 @@ Open Source Community for invaluable tools and libraries
 
 
 ### Uniqueness from Others
-![Uniqueness](assets/unique.png)
+![Uniqueness](Swasthya-Saathi/assets/unique.png)
 *Difference from pre-existing solutions*
 
 ### 🔧 File Descriptions
